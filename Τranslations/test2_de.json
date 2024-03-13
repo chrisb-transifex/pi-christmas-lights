@@ -1,0 +1,73 @@
+{
+  "seoDescriptionBySiteType": {
+    "RESTORATION": "This is my test for source!!!!!!!!!!!",
+    "CONSERVATION": "Second test",
+    "LANDSCAPE": "Third test xaxaxaxaxaxax",
+    "AREA_OF_INTEREST": "{{siteName}} is an area of interest in {{country}}."
+  },
+  "seoDescriptionAppendix": "Explore all info about this project on Restor.",
+  "staticMap": {
+    "alt": "Polygon of {{siteName}} on map"
+  },
+  "landTenure": "Check land tenure",
+  "addToCollection": {
+    "title": "Add site to collection",
+    "createNewCollection": "Create new collection",
+    "buttonLabel": "Save",
+    "text": "Select the collections in which you want this site to appear.",
+    "feedback": {
+      "update": {
+        "success": "Changes saved."
+      }
+    },
+    "makeSitePublic": {
+      "paragraph1": "This is site is set on private and can’t be part of a collection.",
+      "paragraph2": "Would you like to make this site public?",
+      "buttonLabel": "Yes, set to public",
+      "feedback": {
+        "success": "Site is now public.",
+        "error": "Failed to make site public. Please try again later."
+      }
+    },
+    "userHasNoCollections": {
+      "description": "You don’t have any collections yet.",
+      "linkLabel": "Create your first collection"
+    }
+  },
+  "actions": {
+    "title": "Aktionen",
+    "complete": "Complete site profile",
+    "addDescription": "Add description",
+    "edit": "Edit site",
+    "editVisibility": "Set site to public",
+    "photos": {
+      "add": "Add photos",
+      "edit": "Edit photos"
+    },
+    "members": {
+      "linkLabel": "Add members"
+    },
+    "organizations": {
+      "linkLabel": "Link to organization"
+    },
+    "leave": "Leave site",
+    "delete": {
+      "label": "Delete site",
+      "text": "Warning: Deleting this site means that all connections with organizations, users and collections will be permanently removed.",
+      "confirmDialog": {
+        "text": "Are you sure you want to delete this site? All connections with organizations, users and collections will be permanently removed."
+      },
+      "feedback": {
+        "success": "Site deleted."
+      }
+    },
+    "share": {
+      "text": "Check out a {{siteType}} site I found on Restor: {{siteName}}",
+      "embed": {
+        "description1": "Embedding a site involves copying the piece of code shown below and inserting it into your own web page. This allows you to display your Restor site within your own web page. <helpLink>Learn more</helpLink>.",
+        "description2": "Make sure your site is set to public. A private site can not be embedded.",
+        "label": "Embed code"
+      }
+    }
+  }
+}
